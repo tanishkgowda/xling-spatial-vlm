@@ -1,0 +1,10 @@
+# notebooks 00, 02-04 (notebook 01 pins its own versions for the original AdaptVis repo)
+transformers==4.57.1
+accelerate>=1.0
+huggingface_hub>=0.34
+torch
+pillow
+numpy
+pandas
+scipy
+matplotlib

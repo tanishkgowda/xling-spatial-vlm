@@ -1,0 +1,4 @@
+item_id,pair_id,variant,image,subj,obj,relation,label,text_en,text_hi,text_kn
+p0001_orig,p0001,original,train2017/000000000000.jpg,cat,dining table,under,1,The cat is under the dining table.,बिल्ली मेज़ के नीचे है।,ಬೆಕ್ಕು ಮೇಜಿನ ಕೆಳಗೆ ಇದೆ.
+p0001_flip,p0001,relation_flip,train2017/000000000000.jpg,cat,dining table,above,0,The cat is above the dining table.,बिल्ली मेज़ के ऊपर है।,ಬೆಕ್ಕು ಮೇಜಿನ ಮೇಲೆ ಇದೆ.
+p0001_swap,p0001,object_swap,train2017/000000000000.jpg,dining table,cat,under,0,The dining table is under the cat.,मेज़ बिल्ली के नीचे है।,ಮೇಜು ಬೆಕ್ಕಿನ ಕೆಳಗೆ ಇದೆ.
